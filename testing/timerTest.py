@@ -6,7 +6,7 @@ from tkinter import messagebox
 root = Tk()
 
 # setting geometry of tk window
-root.geometry("300x250")
+root.geometry("100x100")
 
 # Using title() to display a message in
 # the dialogue box of the message in the

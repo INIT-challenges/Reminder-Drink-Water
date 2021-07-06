@@ -42,7 +42,7 @@ class main_window:
         self.timer_already_running = False
 
         self.root = Tk()
-        self.root.geometry('400x300')
+        self.root.geometry('240x150')
         self.root.title("Drink water reminder")
 
         self.minute = Label(self.root, text="15", width=4, font=("bold", 18), bg='grey')
